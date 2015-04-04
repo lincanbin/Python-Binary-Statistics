@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import struct, os
-count_one, count_zero = 0,0
-filename = 'example.txt'
+filename, count_one, count_zero = 'example.txt', 0, 0
 for current_byte in list(open(filename,'rb').read()):
     count_one += bin(struct.unpack("B",current_byte)[0]).count('1')
 count_zero = os.path.getsize(filename) * 8 - count_one
