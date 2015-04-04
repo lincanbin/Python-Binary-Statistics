@@ -1,1 +1,15 @@
-test lincanbin
+Java is the foundation for virtually every type of networked application and is the global standard for developing and delivering embedded and mobile applications, games, Web-based content, and enterprise software. With more than 9 million developers worldwide, Java enables you to efficiently develop, deploy and use exciting applications and services.
+
+From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!
+
+Java logo
+97% of Enterprise Desktops Run Java
+89% of Desktops (or Computers) in the U.S. Run Java
+9 Million Java Developers Worldwide
+#1 Choice for Developers
+#1 Development Platform
+3 Billion Mobile Phones Run Java
+100% of Blu-ray Disc Players Ship with Java
+5 Billion Java Cards in Use
+125 million TV devices run Java
+5 of the Top 5 Original Equipment Manufacturers Ship Java ME
