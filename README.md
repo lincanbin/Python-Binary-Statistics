@@ -1,5 +1,5 @@
 # Python-Binary-Statistics
-Count the number of 1 and 0 in a file. 
+Count the number of 1 and 0 in a binary file. 
 
 Inspired by [Zhihu](http://www.zhihu.com/question/20289032/answer/43851592). 
 
@@ -7,7 +7,7 @@ Inspired by [Zhihu](http://www.zhihu.com/question/20289032/answer/43851592).
 
 [statistics.py](https://github.com/lincanbin/Python-Binary-Statistics/blob/master/statistics.py)
 ------------
-Count the number of 1 and 0 in a file. 
+Count the number of 1 and 0 in a binary file. 
 
 ![statistics](https://cloud.githubusercontent.com/assets/5785188/6992802/5bb60c1e-db11-11e4-8685-bbc57258296c.png)
 
