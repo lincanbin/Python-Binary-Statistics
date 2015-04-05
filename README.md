@@ -11,6 +11,12 @@ Count the number of 1 and 0 in a binary file.
 
 ![statistics](https://cloud.githubusercontent.com/assets/5785188/6992802/5bb60c1e-db11-11e4-8685-bbc57258296c.png)
 
+[dir_statistics.py](https://github.com/lincanbin/Python-Binary-Statistics/blob/master/dir_statistics.py)
+------------
+Count the number of 1 and 0 in a directory. 
+
+![dir_statistics](https://cloud.githubusercontent.com/assets/5785188/6996169/54771c84-dba9-11e4-83ed-4ac362af37fa.png)
+
 [file2hex.py](https://github.com/lincanbin/Python-Binary-Statistics/blob/master/file2hex.py)
 ------------
 Display file in Hexadecimal.
