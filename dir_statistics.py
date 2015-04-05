@@ -15,5 +15,5 @@ def count_file(filename):
     count_filesize += os.path.getsize(filename)
     print filename + '\nSize: ' + str(os.path.getsize(filename) * 8) + ' Bits\n'
 if __name__ == '__main__':
-    count_dir('C:\\WebSite\\php\\extras')
+    count_dir('C:\\Python27')
     print '\n\n\nResult: \n\nSize: ' + str(count_filesize*8) + ' Bits\nOne:  ' + str(count_one) + ' times\nZero: ' + str(count_filesize * 8 - count_one) + ' times\nOne/Zero: ' + str(float(count_one) / float(count_filesize * 8 - count_one))
